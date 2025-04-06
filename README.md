@@ -1,10 +1,9 @@
 # Ethical Leadership Longevity Analysis
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ahmedhesham/ethical-leadership-longevity-analysis)
-![GitHub top language](https://img.shields.io/github/languages/top/ahmedhesham/ethical-leadership-longevity-analysis)
-![GitHub language count](https://img.shields.io/github/languages/count/ahmedhesham/ethical-leadership-longevity-analysis)
-![GitHub repo size](https://img.shields.io/github/repo-size/ahmedhesham/ethical-leadership-longevity-analysis)
-![GitHub stars](https://img.shields.io/github/stars/ahmedhesham/ethical-leadership-longevity-analysis)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Data Science](https://img.shields.io/badge/data_science-leadership_analysis-orange.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
 ## 📊 Key Finding: Ethical Leaders Last 54% Longer in Power
 
